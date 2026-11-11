@@ -1,0 +1,8 @@
+{
+  "event_url": "https://polymarket.com/sports/tur/tur-gal-fen-2026-10-26",
+  "output_file": "data/tur-gal-fen-2026-10-26-order-books.jsonl",
+  "snapshot_interval_seconds": 5,
+  "stop_when_event_ends": true,
+  "event_status_check_seconds": 30,
+  "end_grace_seconds": 30
+}
